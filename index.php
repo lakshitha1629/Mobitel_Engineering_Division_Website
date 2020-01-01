@@ -186,7 +186,7 @@
             <div class="row">
                 <div class="col-md-4 ftco-animate">
                     <div class="work-entry">
-                        <a href="#" class="img" style="background-image: url(images/work-1.jpg);">
+                        <a href="#" class="img-contain" style="background-image: url(images/work-1.jpg);">
                             <div class="text d-flex justify-content-center align-items-center">
                                 <div class="p-3">
                                     <span>Branding</span>
@@ -198,7 +198,7 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="work-entry">
-                        <a href="#" class="img" style="background-image: url(images/work-2.jpg);">
+                        <a href="#" class="img-contain" style="background-image: url(images/work-2.jpg);">
                             <div class="text d-flex justify-content-center align-items-center">
                                 <div class="p-3">
                                     <span>Branding</span>
@@ -210,7 +210,7 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="work-entry">
-                        <a href="#" class="img" style="background-image: url(images/work-3.jpg);">
+                        <a href="#" class="img-contain" style="background-image: url(images/work-3.jpg);">
                             <div class="text d-flex justify-content-center align-items-center">
                                 <div class="p-3">
                                     <span>Branding</span>
@@ -222,7 +222,7 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="work-entry">
-                        <a href="#" class="img" style="background-image: url(images/work-4.jpg);">
+                        <a href="#" class="img-contain" style="background-image: url(images/work-4.jpg);">
                             <div class="text d-flex justify-content-center align-items-center">
                                 <div class="p-3">
                                     <span>Branding</span>
@@ -234,7 +234,7 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="work-entry">
-                        <a href="#" class="img" style="background-image: url(images/work-5.jpg);">
+                        <a href="#" class="img-contain" style="background-image: url(images/work-5.jpg);">
                             <div class="text d-flex justify-content-center align-items-center">
                                 <div class="p-3">
                                     <span>Branding</span>
@@ -246,7 +246,7 @@
                 </div>
                 <div class="col-md-4 ftco-animate">
                     <div class="work-entry">
-                        <a href="#" class="img" style="background-image: url(images/work-6.jpg);">
+                        <a href="#" class="img-contain" style="background-image: url(images/work-6.jpg);">
                             <div class="text d-flex justify-content-center align-items-center">
                                 <div class="p-3">
                                     <span>Branding</span>

@@ -10474,7 +10474,7 @@ h5,
     margin-bottom: 30px;
 }
 
-.work-entry .img {
+.work-entry .img-contain {
     display: block;
     height: 400px;
     position: relative;
