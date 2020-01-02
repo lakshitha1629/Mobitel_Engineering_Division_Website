@@ -259,7 +259,7 @@
             </div>
         </div>
     </section>
-
+<!-- 
     <section class="ftco-quote">
         <div class="container">
             <div class="row">
@@ -319,7 +319,7 @@
             </div>
         </div>
     </section>
-
+ -->
 
     <section class="ftco-section testimony-section bg-light">
         <div class="container">
