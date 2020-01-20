@@ -14,7 +14,6 @@
                     <li class="nav-item"><a href="" class="nav-link">Services</a></li>
                     <li class="nav-item"><a href="" class="nav-link">Awards</a></li>
                     <li class="nav-item"><a href="" class="nav-link">Projects</a></li>
-                    <li class="nav-item"><a href="" class="nav-link">Blog</a></li>
                     <li class="nav-item"><a href="" class="nav-link">Contact</a></li>
                     <li class="nav-item cta"><a href="" class="nav-link" data-toggle="modal" data-target="#modalRequest"><span>Get a Quote</span></a></li>
                 </ul>
